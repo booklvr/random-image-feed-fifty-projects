@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300&display=swap");*{box-sizing:border-box}body{font-family:Roboto,sans-serif;min-height:100vh;margin:0}#root{height:100%;width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;margin:0}.title{margin:10px 0 0;text-align:center}.container{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;max-width:1000px}.container img{object-fit:cover;margin:10px;height:300px;width:300px;max-width:100%}
+/*# sourceMappingURL=src.25e04f31.css.map */
